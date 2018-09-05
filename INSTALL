@@ -1,0 +1,9 @@
+Building Bitwave
+
+See doc/readme-qt.rst for instructions on building Bitwave-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bitwave.
+
+See doc/build-*.txt for instructions on building bitwaved,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bitwave.
