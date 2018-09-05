@@ -1,0 +1,2 @@
+# bitwave
+Decentralized Crypto-Currency
